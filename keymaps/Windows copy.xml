@@ -1,0 +1,34 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile" />
+  <action id="GotoSymbol" />
+  <action id="NewDirectoryProject">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="NewPythonFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="SaveAs">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+</keymap>
