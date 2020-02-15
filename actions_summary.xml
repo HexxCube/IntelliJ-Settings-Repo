@@ -18,6 +18,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="$Undo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763717683" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ChangeColorScheme">
           <value>
             <ActionSummary>
@@ -45,16 +53,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563711197" />
-              <option name="times" value="19" />
+              <option name="last" value="1581763794702" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563593303" />
-              <option name="times" value="1" />
+              <option name="last" value="1581763896663" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +93,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563590923" />
-              <option name="times" value="4" />
+              <option name="last" value="1581763895302" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -94,6 +102,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581547618491" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorStartNewLineBefore">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763704308" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -117,8 +133,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563670802" />
-              <option name="times" value="12" />
+              <option name="last" value="1581763677701" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -151,6 +167,14 @@
             <ActionSummary>
               <option name="last" value="1581546718288" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="OptimizeImports">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763714390" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -202,6 +226,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ShowIntentionActions">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763903236" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ShowReformatFileDialog">
           <value>
             <ActionSummary>
@@ -213,8 +245,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563699298" />
-              <option name="times" value="25" />
+              <option name="last" value="1581763912955" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -230,6 +262,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581559762787" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="VimPluginToggle">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763690615" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -250,6 +290,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763674275" />
+              <option name="times" value="11" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
@@ -258,34 +306,65 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.ui.DialogWrapper$5">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763555101" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563663348" />
-              <option name="times" value="3" />
+              <option name="last" value="1581763966623" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581546589616" />
-              <option name="times" value="1" />
+              <option name="last" value="1581763545513" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563686193" />
-              <option name="times" value="10" />
+              <option name="times" value="12" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763968846" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.CommonActionsPanel$RemoveButton">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763973864" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563673089" />
+              <option name="last" value="1581763686953" />
+              <option name="times" value="10" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581763640144" />
               <option name="times" value="9" />
             </ActionSummary>
           </value>
