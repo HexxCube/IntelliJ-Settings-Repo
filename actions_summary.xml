@@ -165,8 +165,8 @@
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581766166861" />
-              <option name="times" value="43" />
+              <option name="last" value="1581814189725" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581764964639" />
-              <option name="times" value="20" />
+              <option name="last" value="1581813903134" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -286,6 +286,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581764367338" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="MTSolarizedLightTheme">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581813895681" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -341,8 +349,8 @@
         <entry key="OpenModuleSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581764704266" />
-              <option name="times" value="1" />
+              <option name="last" value="1581766462958" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +413,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581766233316" />
-              <option name="times" value="19" />
+              <option name="last" value="1581814283266" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +437,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581766422252" />
-              <option name="times" value="50" />
+              <option name="last" value="1581814136915" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +573,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581764977251" />
-              <option name="times" value="14" />
+              <option name="last" value="1581813906469" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -605,8 +613,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581765994154" />
-              <option name="times" value="16" />
+              <option name="last" value="1581813911102" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,6 +629,7 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
+              <option name="last" value="1581813891402" />
               <option name="times" value="12" />
             </ActionSummary>
           </value>
