@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Plugin Error" displayType="NONE" />
-  </component>
-</application>

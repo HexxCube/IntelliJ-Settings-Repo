@@ -7,18 +7,9 @@
     <option name="FONT_SIZE" value="14" />
   </component>
   <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="XML" value="true" />
-      </map>
-    </option>
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
