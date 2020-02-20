@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isContrastMode" value="true" />
@@ -13,6 +16,6 @@
     <option name="accentColor" value="d33682" />
     <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="userId" value="-6bd62a2b:16fef8a1336:-8000" />
-    <option name="version" value="4.13.1" />
+    <option name="version" value="1.3.0" />
   </component>
 </application>
