@@ -277,8 +277,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581563699298" />
-              <option name="times" value="25" />
+              <option name="last" value="1582348983873" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
@@ -310,6 +310,30 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581546630787" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$10">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582348987063" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$11">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582348960459" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582348967958" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
