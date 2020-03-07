@@ -8,6 +8,7 @@
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
