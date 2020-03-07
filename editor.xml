@@ -2,4 +2,8 @@
   <component name="CodeInsightSettings">
     <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="STRIP_TRAILING_SPACES" value="None" />
+  </component>
 </application>
