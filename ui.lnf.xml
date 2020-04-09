@@ -4,6 +4,7 @@
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
