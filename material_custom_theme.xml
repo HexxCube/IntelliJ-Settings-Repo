@@ -1,13 +1,13 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="excludedColor" value="282828ff" />
-    <option name="accentColor" value="3d3d3dff" />
+    <option name="excludedColor" value="323232ff" />
+    <option name="accentColor" value="ff9800ff" />
     <option name="notificationsColor" value="1a1a1aff" />
-    <option name="treeSelectionColor" value="3232323f" />
-    <option name="highlightColor" value="ff9800ff" />
+    <option name="treeSelectionColor" value="323232c0" />
+    <option name="highlightColor" value="3f3f3fff" />
     <option name="secondBorderColor" value="292929ff" />
     <option name="tableSelectedColor" value="323232ff" />
-    <option name="contrastColor" value="1b1b1bff" />
+    <option name="contrastColor" value="1a1a1aff" />
     <option name="disabledColor" value="474747ff" />
     <option name="secondaryBackgroundColor" value="292929ff" />
     <option name="buttonColor" value="2a2a2aff" />

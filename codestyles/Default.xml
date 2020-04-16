@@ -8,9 +8,6 @@
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
-  <Shell_Script>
-    <option name="SWITCH_CASES_INDENTED" value="true" />
-  </Shell_Script>
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -29,7 +26,6 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-      <option name="USE_RELATIVE_INDENTS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
