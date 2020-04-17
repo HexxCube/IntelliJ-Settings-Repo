@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="hexxcube" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EssentialsX/Essentials.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\Min Kyu\OneDrive\Java Projects" />
   </component>
 </application>
