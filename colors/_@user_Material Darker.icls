@@ -4,7 +4,7 @@
     <property name="created">2020-04-11T08:22:50</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.2.0</property>
-    <property name="modified">2020-04-11T09:18:23</property>
+    <property name="modified">2020-04-17T07:01:54</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -48,7 +48,7 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
     <option name="GUTTER_BACKGROUND" value="212121" />
-    <option name="INDENT_GUIDE" value="424242" />
+    <option name="INDENT_GUIDE" value="808080" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
@@ -2159,7 +2159,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="474747" />
+        <option name="BACKGROUND" value="292929" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2826,9 +2826,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
