@@ -112,12 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/seleniumdiscord/hexxor.py" timestamp="1590262959551">
-        <mark key="k" line="9" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/seleniumdiscord/hexxor.py" timestamp="1590269056509">
+        <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -125,34 +124,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CiMgYWRzcGZpIyBhZHNwZmkKIyBhb2EgCiMgYSBhb2lzdWQgZCBvcwojIGFvYW9zb3Nvc28jIGFkc3BmaQojIGFvYSAKIyBhIGFvaXN1ZCBkIG9zCiMgYW9hb3Nvc29zbyMgYWRzcGZpCiMgYW9hIAojIGEgYW9pc3VkIGQgb3MKIyBhb2Fvc29zb3NvIyAjIGFkc3BmaQojICMgYW9hIAojICMgYSBhb2lzdWQgZCBvcwojICMgYW9hb3Nvc29zbyMgYWRzcGZpCiMgIyBhb2EgCiMgIyBhIGFvaXN1ZCBkIG9zCiMgIyBhb2Fvc29zb3NvIyBhZHNwZmkK</text>
+        <text encoding="base64">ZWxlbS5zZW5kX2tleXMoJ2hlbGxvIHdvcmxkJykKZWxlbS5zdWJtaXQoKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiMgYWRzcGZpIyBhZHNwZmkKIyBhb2EgCiMgYSBhb2lzdWQgZCBvcwojIGFvYW9zb3Nvc28jIGFkc3BmaQojIGFvYSAKIyBhIGFvaXN1ZCBkIG9zCiMgYW9hb3Nvc29zbyMgYWRzcGZpCiMgYW9hIAojIGEgYW9pc3VkIGQgb3MKIyBhb2Fvc29zb3NvIyAjIGFkc3BmaQojICMgYW9hIAojICMgYSBhb2lzdWQgZCBvcwojICMgYW9hb3Nvc29zbyMgYWRzcGZpCiMgIyBhb2EgCiMgIyBhIGFvaXN1ZCBkIG9zCiMgIyBhb2Fvc29zb3NvIyBhZHNwZmkK</text>
+        <text encoding="base64">ZWxlbS5zZW5kX2tleXMoJ2hlbGxvIHdvcmxkJykKZWxlbS5zdWJtaXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAjIGFvYSAK</text>
+        <text encoding="base64">aXQgc2VuZCBzeW91Cg==</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">ZWxlbS5zdWJtaXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text># aoaosososo</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAjIGEgYW9pc3VkIGQgb3NkIG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB0aGVyZSBpcyBhIGxpbmUgdGhhdCBpIGRvbid0IHdhbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBpdCdzIG5nIHRvIGJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text># the sharp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>d</text>
