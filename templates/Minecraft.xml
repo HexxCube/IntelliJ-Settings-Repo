@@ -1,0 +1,12 @@
+<templateSet group="Minecraft">
+  <template name="mmsg" value="sender.sendMessage($END$);" description="Send a message to CommandSender sender" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="msout" value="getLogger().info($END$);" description="Prints a string to Bukkit console" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
