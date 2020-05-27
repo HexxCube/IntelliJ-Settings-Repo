@@ -4,6 +4,7 @@
   </component>
   <component name="VimHistorySettings">
     <history>
+      <history-search />
       <history-cmd>
         <entry>a</entry>
         <entry>dw</entry>
@@ -12,7 +13,10 @@
         <entry>new abc</entry>
         <entry>dl</entry>
         <entry>d</entry>
+        <entry>!ls</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -112,49 +116,52 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/seleniumdiscord/hexxor.py" timestamp="1590269056509">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/seleniumdiscord/hexxor.py" timestamp="1590621388126">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/seleniumdiscord/hexxor.py" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZWxlbS5zZW5kX2tleXMoJ2hlbGxvIHdvcmxkJykKZWxlbS5zdWJtaXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWxlbS5zZW5kX2tleXMoJ2hlbGxvIHdvcmxkJykKZWxlbS5zdWJtaXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXQgc2VuZCBzeW91Cg==</text>
+        <text encoding="base64">IyBoZWxsbyB3ZWxjb21lIHRvIHZpbQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxlbS5zdWJtaXQoKQo=</text>
+        <text encoding="base64">dGhpcyBpcyB0aGUgbmV3IHZpbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgeW91IGxpZSB2aW0gdGhlbiBpIHJlY29tbWVuZCB5b3UgY29udGludWUgdXNpbmcgdmltIGZvciB0aGUgcmVzdCBvZiB5b3VyIGNhcmVlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm90IG9ubHkgZG9lcyBpdCBhdXRvbWF0ZSBzbyBtYW55IHRoaW5nIHMgZm9yIHlvdQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2VsbCB0aGlzIGlzIG5ldyAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>d</text>
+        <text>!ls</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -170,7 +177,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>

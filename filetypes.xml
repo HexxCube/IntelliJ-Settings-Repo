@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="Main" type="CLASS" />
     </extensionMap>
   </component>
