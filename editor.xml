@@ -4,7 +4,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_SIZE" value="16" />
     <option name="LINE_SPACING" value="1.4" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
@@ -12,6 +12,7 @@
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
