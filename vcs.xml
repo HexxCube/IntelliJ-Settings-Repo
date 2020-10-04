@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/EssentialsX/Essentials.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Charles445/SoManyEnchantments/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Min Kyu\OneDrive\Java Projects" />
+    <option name="cloneParentDir" value="C:\Users\minky\Documents\intellij workspace" />
   </component>
 </application>
